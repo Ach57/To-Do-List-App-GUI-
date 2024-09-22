@@ -29,5 +29,14 @@ The following libraries are required to run this application:
 - **time**: A module for time-related functions.
 
 
-# Installation
+## Installation
+
+To set up the application, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/python-task-manager.git
+   cd python-task-manager
+
+pip install customtkinter pillow openpyxl pandas
 
