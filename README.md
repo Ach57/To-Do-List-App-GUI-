@@ -48,10 +48,12 @@ To set up the application, follow these steps:
    - `Github.png`
 
 ## Usage
-Run the application : 
-   ```bash
-   python main.py
-dasas
+Run the application : **python main.py**
+
+##ScreenShots:
+
+
+
 
 
 
