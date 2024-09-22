@@ -15,18 +15,19 @@ A simple and intuitive task management application built using customTkinter, tk
 
 The following libraries are required to run this application:
 
--customtkinter
--tkinter
--PIL (Pillow)
--webbrowser
--json
--os
--subprocess
--platform
--openpyxl
--pandas
--threading
--time
+- **customtkinter**: A modern tkinter wrapper for creating user interfaces.
+- **tkinter**: The standard GUI toolkit for Python.
+- **PIL (Pillow)**: A Python Imaging Library that adds image processing capabilities.
+- **webbrowser**: A module to display web pages in the default web browser.
+- **json**: A module for parsing JSON data.
+- **os**: A module for interacting with the operating system.
+- **subprocess**: A module for spawning new processes and connecting to their input/output/error pipes.
+- **platform**: A module to access underlying platform’s identifying data.
+- **openpyxl**: A library for reading and writing Excel (XLSX) files.
+- **pandas**: A powerful data manipulation and analysis library.
+- **threading**: A module for creating and managing threads.
+- **time**: A module for time-related functions.
+
 
 # Installation
 
