@@ -50,7 +50,8 @@ To set up the application, follow these steps:
 ## Usage
 Run the application : **python main.py**
 
-##ScreenShots:
+## ScreenShots:
+
 
 
 
