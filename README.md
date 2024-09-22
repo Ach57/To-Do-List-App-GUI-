@@ -38,5 +38,9 @@ To set up the application, follow these steps:
    git clone https://github.com/yourusername/python-task-manager.git
    cd python-task-manager
 
+2. **Install the required libraries
+```bash
 pip install customtkinter pillow openpyxl pandas
+
+
 
