@@ -271,14 +271,6 @@ class mainWindow(ctk.CTk):
         self.load_tasks()
         
         
-        
-        
-        
-        
-        
-        
-    
-    
     def _on_closing_(self):
         return
     
