@@ -52,11 +52,5 @@ Run the application : **python main.py**
 
 ## ScreenShots:
 <img width="768" alt="Screenshot 2024-09-22 at 4 32 21 PM" src="https://github.com/user-attachments/assets/52057fcf-3473-4203-91f6-ba504d23bd09">
-<img width="768" alt="Screenshot 2024-09-22 at 4 32 21 PM" src="https://github.com/user-attachments/assets/a4e1e8cd-8cbd-444c-8459-1fda01d9514d">
-
-
-
-
-
-
+<img width="768" alt="Screenshot 2024-09-22 at 4 33 20 PM" src="https://github.com/user-attachments/assets/e653cb6e-c16b-4f98-baa6-542f865226d3">
 
