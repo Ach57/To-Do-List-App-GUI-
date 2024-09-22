@@ -39,8 +39,19 @@ To set up the application, follow these steps:
    cd python-task-manager
 
 2. **Install the required libraries
-```bash
-pip install customtkinter pillow openpyxl pandas
+   ```bash
+   pip install customtkinter pillow openpyxl pandas
+   
+3. **Add image assets**: Ensure you have the required images in the `Images` directory:
+   - `pythonLogo.ico`
+   - `pythonLogo_transparent_bg.png`
+   - `Github.png`
+
+## Usage
+Run the application : 
+   ```bash
+   python main.py
+dasas
 
 
 
